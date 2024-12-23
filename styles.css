@@ -58,3 +58,11 @@ main {
 .end-card a {
     color: aqua;
 }
+
+.border-line {
+    width: 100%;
+    height: 1px;
+    background-color: rgb(211, 211, 211);
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
