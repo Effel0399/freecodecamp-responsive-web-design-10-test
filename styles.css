@@ -25,6 +25,8 @@ main {
 #image {
     display: flex;
     margin: 0 auto;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
     justify-content: center;
     max-width: 300px;
     height: auto;
@@ -36,4 +38,23 @@ main {
     max-width: 300px;
     font-size: .75rem;
     font-style: italic;
+}
+
+#tribute-info ul{
+    display: block;
+    justify-content: center;
+    margin: 10px auto;
+    max-width: 600px;
+}
+
+.end-card {
+    margin: 2rem auto;
+    text-align: center;
+    font-size: .75rem;
+    color: white;
+    background-color: rgb(72, 72, 72);
+    padding: .5rem;
+}
+.end-card a {
+    color: aqua;
 }
