@@ -29,3 +29,11 @@ main {
     max-width: 300px;
     height: auto;
 }
+#img-caption {
+    display: flex;
+    margin: 10px auto;
+    justify-content: center;
+    max-width: 300px;
+    font-size: .75rem;
+    font-style: italic;
+}
